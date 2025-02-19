@@ -3694,12 +3694,6 @@ figcaption {
     background-color: #43464d;
 }
 
-.image-2 {
-    background-image: url("./stefan.png");
-    background-position: 50% 50%;
-    background-size: auto;
-}
-
 .navbar-logo-left-container {
     z-index: 5;
     width: 1030px;
