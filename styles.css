@@ -3501,7 +3501,7 @@ figcaption {
 }
 
 .other-pretty-divider {
-    height: 300px;
+    height: 200px;
     background-image: url("./cherry_blossom.jpeg");
     background-position: 50% 30%;
     background-size: cover;
